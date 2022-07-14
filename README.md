@@ -1,3 +1,3 @@
-# Create T3 App
+# Sample Integration with Stitch
 
-This is an app bootstrapped according to the [init.tips](https://init.tips) stack, also known as the T3-Stack.
+Next.js app sampling how to integrate with [Stitch](https://stitch.money/). 
